@@ -1,7 +1,9 @@
 ---
 title: Primoris Services Corporation Reports First Quarter 2026 ...
 url: https://ir.prim.com/news-and-events/news-releases/2026/05-05-2026-211613921
-date: '2026-05-25'
+published: '2026-05-05'
+date_basis: url-derived
+harvested: '2026-05-25'
 query: '"Primoris Services" press release artificial intelligence'
 position: 2
 source: serpapi-google
